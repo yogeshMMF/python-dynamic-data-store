@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+.qodo
+.vscode
+/.vscode
+/hospital_courses_table.xlsx
